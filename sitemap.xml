@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://ogsolutions.ie/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ogsolutions.ie/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://ogsolutions.ie/ro/" />
+  </url>
+  <url>
+    <loc>https://ogsolutions.ie/ro/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ogsolutions.ie/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://ogsolutions.ie/ro/" />
+  </url>
+</urlset>
